@@ -1,0 +1,11 @@
+form a {
+  margin-left: 5px
+}
+
+.delete-text {
+  color: red
+}
+
+.delete-text:hover {
+  color: maroon
+}
